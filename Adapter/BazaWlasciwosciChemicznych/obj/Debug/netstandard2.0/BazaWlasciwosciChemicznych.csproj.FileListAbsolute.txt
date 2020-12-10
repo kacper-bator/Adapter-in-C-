@@ -1,0 +1,9 @@
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\bin\Debug\netstandard2.0\BazaWlasciwosciChemicznych.deps.json
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\bin\Debug\netstandard2.0\BazaWlasciwosciChemicznych.dll
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\bin\Debug\netstandard2.0\BazaWlasciwosciChemicznych.pdb
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.csprojAssemblyReference.cache
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.dll
+C:\Users\kacpe\source\repos\Adapter\BazaWlasciwosciChemicznych\obj\Debug\netstandard2.0\BazaWlasciwosciChemicznych.pdb
